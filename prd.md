@@ -142,11 +142,18 @@ The methods will include:
 The findings will be used to validate the problem, identify user needs and prioritize features.
 Actual survey results, interview summaries, participant numbers and supporting evidence must be added after the research is completed.
 
-13. FUTURE IMPROVEMENTS
+13. USER STORIES
+- As a student, I want to receive verified campus information so that i can stay updated on important events and announcements.
+- As a student, I want to report fake news or misleading information so that other students are not misinformed.
+- As a student, I want to receive notifications about important campus updates so that i do not miss useful information.
+- As a lecturer or staff member, I want t share important academic information so that students can reeive reliable updates on time.
+- As an admin, I want to review and verify information before it is published so that only accurate and trusted information is shared on CAMPUSCONNECT.
+
+14. FUTURE IMPROVEMENTS
 Future versions may include push notifications, email alerts, personalized feeds, calendar integration, advanced analytics, mobile applications and improved moderation workflows.
 These improvements will depend on user feedback and institutional requirements.
 
-14. CONCLUSION
+15. CONCLUSION
 CampusConnect proposes a centralized approach to distributing and managing information within Babcock University. Through organized announcements, controlled publishing permissions and efficient information retrieval, the platform aims to improve communication among students, lecturers and administrators.
 The initial version will focus on authentication, announcement management, categorization, audience targeting and search functionality. Its development will be guided by actual research to ensure that it addresses a genuine university-wide problem.
 
